@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<quality>
+		<name>
+			Slow
+		</name>
+		<price>
+			100.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Control
+		</name>
+		<price>
+			125.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Medium
+		</name>
+		<price>
+			150.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Quick
+		</name>
+		<price>
+			175.00
+		</price>
+	</quality>
+		<quality>
+		<name>
+			Fast
+		</name>
+		<price>
+			200.00
+		</price>
+	</quality>
+</items>
